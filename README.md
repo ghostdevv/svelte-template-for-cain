@@ -1,9 +1,11 @@
-# Svelte & Vite Template
+# Svelte Template
+Made for cain
 
 # Features
 
 -   Vite
--   SCSS
+-   TypeScript
+-   Routify
 -   Postcss (Autoprefixer)
 
 # Commands
