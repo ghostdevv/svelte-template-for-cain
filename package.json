@@ -1,5 +1,5 @@
 {
-    "name": "oxovas-vite-template",
+    "name": "svelte-template-for-cain",
     "private": true,
     "scripts": {
         "dev": "run-p dev:*",
